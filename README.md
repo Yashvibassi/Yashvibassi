@@ -1,21 +1,26 @@
-## Hi there 👋
+## Hi, I’m Yashvi Bassi
 
-**Yashvibassi/Yashvibassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring cybersecurity professional with a strong interest in defensive security, SOC workflows, and GRC fundamentals. I am currently strengthening my foundation in basic Python programming and deepening my understanding of security monitoring, incident response, and governance frameworks.
 
-Here are some ideas to get you started:
+## What I’m Working On
 
-- 🔭 I’m currently working on technical skills related to ethical hacking.
-- 🌱 I’m currently learning advanced cybersecurity techniquesalso refining my skills in Python, 
-     C++.
-- 👯 I’m looking to collaborate on Innovative blockchain applications, cybersecurity projects.
-- 🤔 I’m looking for help with Expanding my knowledge in penetration testing and more.
-- 💬 Ask me about Cybersecurity and leadership in communities. I also have experience in content 
-     creation and social media management for tech clubs.
-- 📫 How to reach me: Email: saritabassi@01gmail.com
-     Phone: +91 8219920168
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I placed 4th in the prestigious Kavach Hackathon and have a passion for public 
-     speaking, frequently engaging as an anchor and event organizer in tech forums and university 
-     events.
+Building core technical skills across ethical hacking, defensive security, and digital forensics.
+Learning how modern SOCs detect, analyze, and respond to cyber threats.
 
+## Projects
+Some of the cybersecurity and forensics projects I have worked on include:
 
+1.CyberDrishti – An anonymous, expert-verified cybercrime awareness and reporting platform.
+2.Password Cracking and Brute-Force Automation – Designed scripts to automate password attacks for security research and learning.
+3.Network Security & Traffic Analysis – Performed packet inspection and threat detection using Wireshark and Nmap.
+4.Forensic Investigation of a Compromised System – Conducted disk and memory analysis using Autopsy and Volatility.
+
+## Achievements
+
+1.Secured 4th position in the Kavach Hackathon, competing against national-level cybersecurity teams.
+2.Ranked in the Top 11 in the Cipher Hunt CTF, demonstrating strong analytical and problem-solving skills.
+
+## Contact
+Email: saritabassi01@gmail.com
+Phone: +91 82199 20168
+Linkdedin:https://www.linkedin.com/in/yashvi-bassi-b5733924a/
